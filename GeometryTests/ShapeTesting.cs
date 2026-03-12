@@ -37,11 +37,11 @@ namespace GeometryTests
         }
 
         [Fact]
-        public void TriangleAreaCalculationTest()
+        public void TriangleAreaCalculationTestFail()
         {
             double sideA = 6;
             double sideB = 8;
-            double sideC = 10;
+            double sideC = 0;
 
             double p = (sideA + sideB + sideC) / 2;
             double expected = Math.Sqrt(p * (p - sideA) * (p - sideB) * (p - sideC));
