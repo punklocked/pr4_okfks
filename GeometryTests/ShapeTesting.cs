@@ -52,11 +52,11 @@ namespace GeometryTests
         }
 
         [Fact]
-        public void TrianglePerimeterCalculationTest()
+        public void TrianglePerimeterCalculationTestFalse()
         {
             double sideA = 6;
             double sideB = 8;
-            double sideC = 10;
+            double sideC = 0;
 
             double expected = sideA + sideB + sideC;
 
