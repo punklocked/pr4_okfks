@@ -21,7 +21,7 @@ jobs:
         run: dotnet restore
 
       - name: Build
-        run: dotnet build --no-restore --configuration Release
+        run: dotnet build --no-restore
 
       - name: Tests
-        run: dotnet test GeometryTests/GeometryTests.csproj --no-build --configuration Release
+        run: dotnet test GeometryTests/GeometryTests.csproj --no-build
