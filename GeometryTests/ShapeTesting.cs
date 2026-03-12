@@ -37,11 +37,11 @@ namespace GeometryTests
         }
 
         [Fact]
-        public void TriangleAreaCalculationTestFail()
+        public void TriangleAreaCalculationTest()
         {
             double sideA = 6;
             double sideB = 8;
-            double sideC = 0;
+            double sideC = 10;
 
             double p = (sideA + sideB + sideC) / 2;
             double expected = Math.Sqrt(p * (p - sideA) * (p - sideB) * (p - sideC));
@@ -52,17 +52,36 @@ namespace GeometryTests
         }
 
         [Fact]
-        public void TrianglePerimeterCalculationTestFail()
+        public void TrianglePerimeterCalculationTest()
         {
             double sideA = 6;
             double sideB = 8;
-            double sideC = 0;
+            double sideC = 10;
 
             double expected = sideA + sideB + sideC;
 
             GeometryShape.Triangle triangle = new GeometryShape.Triangle(sideA, sideB, sideC);
 
             Assert.Equal(expected, triangle.Perimeter());
+        }
+
+        [Fact]
+        public void TriangleWrongArguments()
+        {
+            double sideA = 6;
+            double sideB = 8;
+            double sideC = 0;
+
+            Assert.Throws<ArgumentException>(() => new Triangle(sideA, sideB, sideC));
+        }
+
+        [Fact]
+        public void RectangleWrongArguments()
+        {
+            double width = 10;
+            double height = 0;
+
+            Assert.Throws<ArgumentException>(() => new GeometryShape.Rectangle(width, height));
         }
     }
 }
