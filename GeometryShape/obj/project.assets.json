@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\GeometryShape\\GeometryShape.csproj",
+      "projectUniqueName": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\GeometryShape\\GeometryShape.csproj",
       "projectName": "GeometryShape",
-      "projectPath": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\GeometryShape\\GeometryShape.csproj",
+      "projectPath": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\GeometryShape\\GeometryShape.csproj",
       "packagesPath": "C:\\Users\\Eblan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\GeometryShape\\obj\\",
+      "outputPath": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\GeometryShape\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

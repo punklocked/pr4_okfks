@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\",
+  "WorkspaceRootPath": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA8D0923-461D-48BC-96AE-BBE9317A10F7}|GeometryShape\\GeometryShape.csproj|c:\\users\\eblan\\desktop\\geometryshape\\geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CD6740B-CF93-6433-143C-DBBA7695EEA8}|GeometryTests\\GeometryTests.csproj|c:\\users\\eblan\\desktop\\geometryshape\\pr4_okfks\\geometrytests\\shapetesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD6740B-CF93-6433-143C-DBBA7695EEA8}|GeometryTests\\GeometryTests.csproj|solutionrelative:geometrytests\\shapetesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D0923-461D-48BC-96AE-BBE9317A10F7}|GeometryShape\\GeometryShape.csproj|c:\\users\\eblan\\desktop\\geometryshape\\pr4_okfks\\geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA8D0923-461D-48BC-96AE-BBE9317A10F7}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8D0923-461D-48BC-96AE-BBE9317A10F7}|GeometryShape\\GeometryShape.csproj|c:\\users\\eblan\\desktop\\geometryshape\\geometryshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA8D0923-461D-48BC-96AE-BBE9317A10F7}|GeometryShape\\GeometryShape.csproj|c:\\users\\eblan\\desktop\\geometryshape\\pr4_okfks\\geometryshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA8D0923-461D-48BC-96AE-BBE9317A10F7}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8D0923-461D-48BC-96AE-BBE9317A10F7}|GeometryShape\\GeometryShape.csproj|c:\\users\\eblan\\desktop\\geometryshape\\geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA8D0923-461D-48BC-96AE-BBE9317A10F7}|GeometryShape\\GeometryShape.csproj|c:\\users\\eblan\\desktop\\geometryshape\\pr4_okfks\\geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA8D0923-461D-48BC-96AE-BBE9317A10F7}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,24 +34,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\GeometryShape\\Triangle.cs",
-              "RelativeDocumentMoniker": "GeometryShape\\Triangle.cs",
-              "ToolTip": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\GeometryShape\\Triangle.cs",
-              "RelativeToolTip": "GeometryShape\\Triangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ShapeTesting.cs",
+              "DocumentMoniker": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\GeometryTests\\ShapeTesting.cs",
+              "RelativeDocumentMoniker": "GeometryTests\\ShapeTesting.cs",
+              "ToolTip": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\GeometryTests\\ShapeTesting.cs",
+              "RelativeToolTip": "GeometryTests\\ShapeTesting.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T14:01:37.774Z",
+              "WhenOpened": "2026-03-12T16:23:39.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\GeometryShape\\Triangle.cs",
+              "RelativeDocumentMoniker": "GeometryShape\\Triangle.cs",
+              "ToolTip": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\GeometryShape\\Triangle.cs",
+              "RelativeToolTip": "GeometryShape\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:01:37.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\GeometryShape\\Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\GeometryShape\\Rectangle.cs",
               "RelativeDocumentMoniker": "GeometryShape\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\GeometryShape\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\GeometryShape\\Rectangle.cs",
               "RelativeToolTip": "GeometryShape\\Rectangle.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,16 +72,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\GeometryShape\\Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\GeometryShape\\Shape.cs",
               "RelativeDocumentMoniker": "GeometryShape\\Shape.cs",
-              "ToolTip": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\GeometryShape\\Shape.cs",
+              "ToolTip": "C:\\Users\\Eblan\\Desktop\\GeometryShape\\pr4_okfks\\GeometryShape\\Shape.cs",
               "RelativeToolTip": "GeometryShape\\Shape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T14:00:31.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T14:00:31.714Z"
             }
           ]
         }
