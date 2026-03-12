@@ -2,7 +2,7 @@ name: ci
 
 on:
   pull_request:
-    branch: ["main"]
+    branches: ["main"]
 
 jobs:
   build:
@@ -15,13 +15,13 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.0.x'
-      
+          dotnet-version: "8.0.x"
+
       - name: Restore
         run: dotnet restore
-      
+
       - name: Build
         run: dotnet build --no-restore
 
       - name: Tests
-        run: dotnet test --no-build
+        run: dotnet test GeometryTests/GeometryTests.csproj --no-build
